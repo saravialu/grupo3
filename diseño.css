@@ -1,0 +1,59 @@
+
+#titulo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    font-size: large;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    line-height: normal;
+    
+}
+
+#titulo2 {
+    line-height: normal;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    font-size: xx-large;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+#que {
+    border: 2px solid grey;
+    padding: 100px;
+    margin: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#pagina { 
+    background-image: url("/Users/saritavialundurraga/Desktop/pagina/Fondo.jpg");
+    background-size: contain;
+}
+
+#pq {
+    border: 2px solid grey;
+    padding: 100px;
+    margin: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#paraque {
+    border: 2px solid grey;
+    padding:100px;
+    margin: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.preguntas {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    text-align: center;
+}
+
+.mapa {
+    margin: 50px;
+}
